@@ -15,7 +15,7 @@ app.use(router);
 /**
  * Middleware para exibição das mensagens geradas pelas exceções.
  */
- app.use(
+app.use(
   (err: Error, request: Request, response: Response, next: NextFunction) => {
     if (err instanceof Error) {
       return response.status(400).json({

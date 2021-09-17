@@ -12,7 +12,6 @@ const listPatientsController = new ListPatientsController();
 /**
  * Rota para a listagem de todos os pacientes
  */
-router.get("/patients", listPatientsController.handle)
-
+router.get("/patients", listPatientsController.handle);
 
 export { router };

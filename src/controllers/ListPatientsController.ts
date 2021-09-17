@@ -6,7 +6,7 @@ class ListPatientsController {
   /**
    * Realiza a comunicação entre as requisições e o serviço de listagem de
    * categorias.
-   * 
+   *
    * @param request Request
    * @param response Response
    * @returns JSON
