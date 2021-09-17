@@ -26,8 +26,8 @@ O projeto trata-se de uma API REST desenvolvida utilizando [Node.Js](https://nod
 
 ## 💻 Como utilizar ##
 1. Instale o [Node.Js](https://nodejs.org/en/download/) caso necessário;
-2. Instale o [Yarn](https://yarnpkg.com/getting-started/install), também é possível utilizar o [NPM](https://docs.npmjs.com/) (instalado juntamento com o Node.Js)
-3. Faça o download deste repositório ou clone-o com o seguinte comando
+2. Instale o [Yarn](https://yarnpkg.com/getting-started/install), também é possível utilizar o [NPM](https://docs.npmjs.com/) (instalado juntamento com o Node.Js);
+3. Faça o download deste repositório ou clone-o com o seguinte comando:
 ```powershell
 $ git clone https://github.com/AllanCapistrano/tec502-pbl1-api.git
 ```
@@ -45,7 +45,7 @@ $ yarn dev
 ```
 
 ###### Obs: Caso deseje utilizr o NPM, basta substituir `yarn` por `npm` nos comandos anteriores. ######
-###### Obs2: No passo `5`, se estiver utilizando o NPM, o comando correto é `npm update` ######
+###### Obs2: No passo `5`, se estiver utilizando o NPM, o comando correto é `npm update`. ######
 
 ------------
 
