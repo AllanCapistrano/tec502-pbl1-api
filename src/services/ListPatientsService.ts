@@ -9,12 +9,12 @@ class ListPatientsService {
    */
   async execute() {
     const FILE_PATH = "path_to_file";
-    const FILE_NAME = "file_name";
+    const FILE_NAME = "patients.json";
 
     /**
      * Leitura do arquivo.
      */
-    const file = readFileSync(join(FILE_PATH, FILE_NAME))
+    const file = readFileSync(join(FILE_PATH, FILE_NAME));
 
     return JSON.parse(file.toString());
   }
