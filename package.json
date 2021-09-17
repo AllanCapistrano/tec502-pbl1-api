@@ -1,0 +1,20 @@
+{
+  "name": "tec502-pbl1-api",
+  "version": "1.0.0",
+  "description": "API para a resolução do problema 1 do MI - Concorrência e Conectividade (TEC 502)..",
+  "main": "index.js",
+  "author": "AllanCapistrano <allan.capistrano3@gmail.com>",
+  "license": "GPL-3.0",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1"
+  }
+}
