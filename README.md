@@ -39,7 +39,8 @@ $ yarn install
 ```powershell
 $ yarn upgrade
 ```
-6. Para inciar o projeto, ainda no terminal digite:
+6. No arquivo [ListPatientsService.ts](https://github.com/AllanCapistrano/tec502-pbl1-api/blob/main/src/services/ListPatientsService.ts), edite a constante `FILE_PATH` para o caminho onde está o arquivo `patients.json`. Caso não tenha modificado, o mesmo estará na raiz do projeto [tec502-pbl1-server](https://github.com/AllanCapistrano/tec502-pbl1-server);
+7. Para inciar o projeto, ainda no terminal digite:
 ```powershell
 $ yarn dev
 ```
