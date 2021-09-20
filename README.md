@@ -21,6 +21,7 @@ O projeto trata-se de uma API REST desenvolvida utilizando [Node.Js](https://nod
 
 ### 📦 Dependências: ### 
 - [express](https://expressjs.com/)
+- [express-async-errors](https://www.npmjs.com/package/express-async-errors)
 
 ------------
 
