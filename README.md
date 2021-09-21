@@ -45,6 +45,7 @@ $ yarn upgrade
 ```powershell
 $ yarn dev
 ```
+8. Acesse a rota `localhost:3000/patients`.
 
 ###### Obs: Caso deseje utilizr o NPM, basta substituir `yarn` por `npm` nos comandos anteriores. ######
 ###### Obs2: No passo `5`, se estiver utilizando o NPM, o comando correto é `npm update`. ######
