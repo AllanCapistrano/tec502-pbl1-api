@@ -5,7 +5,7 @@
 </p>
 
 ## 📖 Descrição do Projeto ##
-> **Resolução do problema 1 do MI - Concorrência e Conectividade (TEC 502).**<br/><br/>
+> **Resolução do problema 1 do MI - Concorrência e Conectividade (TEC 502) - [Universidade Estadual de Feira de Santana (UEFS)](https://www.uefs.br/).**<br/><br/>
 O projeto trata-se de uma API REST desenvolvida utilizando [Node.Js](https://nodejs.org/en/docs/), que tem como função disponibilizar através do protocolo HTTP a lista dos pacientes que estão utilizando o [dispositivo de sensores](https://github.com/AllanCapistrano/tec502-pbl1-sensors), assim como todas as informações dos mesmos. Dessa forma, é possível monitorar os pacientes sem a obrigação de utilizar o programa [monitoramento de pacientes](https://github.com/AllanCapistrano/tec502-pbl1-monitoring), sendo necessário somente consumir esta API REST.
 
 ### ⛵ Navegação pelos projetos: ###
